@@ -9,7 +9,7 @@ context('/dfi page on desktop', () => {
 
   it('should have Header', () => {
     cy.findByTestId('Header.title').should('have.text', '$DFI')
-    cy.findByTestId('Header.desc.main').should('have.text', 'Learn about and acquire the $DFI coin')
+    cy.findByTestId('Header.desc.main').should('have.text', 'Learn about and acquire the $COLE coin')
   })
 
   it('should have DFICoinSection', function () {

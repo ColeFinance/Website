@@ -2,7 +2,7 @@
   "header": {
     "navbar": {
       "foundation": "Foundation",
-      "dfi": "$DFI",
+      "dfi": "$COLE",
       "dex": "DEX",
       "developers": "Developers",
       "ecosystem": "Ecosystem",
@@ -13,10 +13,10 @@
     }
   },
   "footer": {
-    "title": "Native Decentralized Finance for Bitcoin.",
+    "title": "Native Defi for Bitcoin.",
     "sitemap": {
       "foundation": "Foundation",
-      "dfi": "$DFI",
+      "dfi": "$COLE",
       "dex": "DEX",
       "developers": "Developers",
       "ecosystem": "Ecosystem",
