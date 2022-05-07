@@ -15,15 +15,15 @@
         "desc": "Access decentralized assets with collateral in your vault.",
         "buttonText": "Learn more",
         "buttonType": "full",
-        "url": "https://blog.defichain.com/what-are-decentralised-stock-tokens-and-how-do-they-work/"
+        "url": "https://blog.ColeChain.com/what-are-decentralised-stock-tokens-and-how-do-they-work/"
       },
       {
         "label": "FEATURED DOWNLOAD",
-        "title": "DeFiChain Wallet",
-        "desc": "Experience DeFiChain with wallet apps built for both desktop and mobile.",
+        "title": "ColeChain Wallet",
+        "desc": "Experience ColeChain with wallet apps built for both desktop and mobile.",
         "buttonText": "Go to Downloads",
         "buttonType": "full",
-        "url": "https://defichain.com/downloads/"
+        "url": "https://ColeChain.com/downloads/"
       },
       {
         "label": "HOW-TO GUIDE",
@@ -31,12 +31,12 @@
         "desc": "Learn about and acquire the $DFI coin from various crypto exchanges.",
         "buttonText": "Learn more",
         "buttonType": "outline",
-        "url": "https://blog.defichain.com/where-and-how-to-buy-dfi-defichain/"
+        "url": "https://blog.ColeChain.com/where-and-how-to-buy-dfi-ColeChain/"
       },
       {
         "label": "ECOSYSTEM",
         "title": "Explore community projects",
-        "desc": "Comprehensive list of all things DeFiChain.",
+        "desc": "Comprehensive list of all things ColeChain.",
         "buttonText": "Explore",
         "buttonType": "outline",
         "url": "https://defilinks.io/"
@@ -55,7 +55,7 @@
     }
   },
   "BenefitsSection": {
-    "title": "Benefits of DeFiChain.",
+    "title": "Benefits of ColeChain.",
     "Variety": {
       "title": "Variety",
       "desc": "Wide range of crypto-economic financial operations."
@@ -118,12 +118,12 @@
   },
   "BuiltOnBitcoinSection": {
     "title": "Built-on-bitcoin",
-    "desc": "DeFiChain marries the best of Proof-of-Stake, with the security and immutability of Bitcoin.",
+    "desc": "ColeChain marries the best of Proof-of-Stake, with the security and immutability of Bitcoin.",
     "button": "Learn more"
   },
   "DistributionSection": {
     "title": "Decentralized and distributed",
-    "desc": "DeFiChain nodes are distributed globally across datacenters in the US, Canada, Europe, India, Singapore and Australia."
+    "desc": "ColeChain nodes are distributed globally across datacenters in the US, Canada, Europe, India, Singapore and Australia."
   },
   "RoadmapSection": {
     "title": "Roadmap",
@@ -165,7 +165,7 @@
         },
         {
           "title": "Q3-4",
-          "desc": "Ethereum Virtual Machine Support on DeFiChain",
+          "desc": "Ethereum Virtual Machine Support on ColeChain",
           "url": "https://github.com/DeFiCh/dfips/issues/96",
           "image": {
             "url": "/img/timeline/2022/EVM2x.png",
@@ -197,7 +197,7 @@
         {
           "title": "Jan",
           "desc": "DFIP 3, 4, 5 and 6 are approved by the community.",
-          "url": "https://defiblockchain.medium.com/voting-results-defichain-improvement-community-proposals-45f5e81436b1",
+          "url": "https://defiblockchain.medium.com/voting-results-ColeChain-improvement-community-proposals-45f5e81436b1",
           "image": {
             "url": "/img/timeline/2021/dfips3456@2x.png",
             "alt": "DFIP 3, 4, 5 and 6"
@@ -206,7 +206,7 @@
         {
           "title": "Jan",
           "desc": "Q4 2020 transparency report released.",
-          "url": "https://defichain.ghost.io/defichain-transparency-report-q4-2020/",
+          "url": "https://ColeChain.ghost.io/ColeChain-transparency-report-q4-2020/",
           "image": {
             "url": "/img/timeline/2021/transparency-report@2x.png",
             "alt": "Q4 2020 transparency report"
@@ -214,26 +214,26 @@
         },
         {
           "title": "Jan",
-          "desc": "DeFiChain listed on Messari.",
+          "desc": "ColeChain listed on Messari.",
           "url": "https://messari.io/asset/defi",
           "image": {
             "url": "/img/timeline/2021/messari@2x.png",
-            "alt": "DeFiChain listed on Messari"
+            "alt": "ColeChain listed on Messari"
           }
         },
         {
           "title": "Jan",
-          "desc": "DeFiChain listed on KuCoin.",
-          "url": "https://www.kucoin.com/news/en-defichain-gets-listed-on-kucoin?utm_source=DFI",
+          "desc": "ColeChain listed on KuCoin.",
+          "url": "https://www.kucoin.com/news/en-ColeChain-gets-listed-on-kucoin?utm_source=DFI",
           "image": {
             "url": "/img/timeline/2021/kucoin@2x.png",
-            "alt": "DeFiChain listed on KuCoin"
+            "alt": "ColeChain listed on KuCoin"
           }
         },
         {
           "title": "Jan",
           "desc": "DFIP 3 (liquidity mining bonus rewards extended) in Clarke Quay hard fork.",
-          "url": "https://defichain.ghost.io/voting-results-defichain-improvement-community-proposals/",
+          "url": "https://ColeChain.ghost.io/voting-results-ColeChain-improvement-community-proposals/",
           "image": {
             "url": "/img/timeline/2021/lm-bonus@2x.png",
             "alt": "Liquidity mining bonus extended"
@@ -250,7 +250,7 @@
         {
           "title": "Jan",
           "desc": "DOGE-DFI pool pair added to DEX.",
-          "url": "https://blog.defichain.com/doge-420-liquidity-mining/",
+          "url": "https://blog.ColeChain.com/doge-420-liquidity-mining/",
           "image": {
             "url": "/img/timeline/2021/doge-pair@2x.jpg",
             "alt": "New DOGE-DFI pool pair"
@@ -259,7 +259,7 @@
         {
           "title": "Feb",
           "desc": "Further decentralization via Dakota upgrade.",
-          "url": "https://blog.defichain.com/dakota-upgrade/",
+          "url": "https://blog.ColeChain.com/dakota-upgrade/",
           "image": {
             "url": "/img/timeline/2021/dakota-upgrade@2x.jpg",
             "alt": "Dakota upgrade"
@@ -268,7 +268,7 @@
         {
           "title": "Feb",
           "desc": "Collateral required to start a masternode lowered to 20k DFI.",
-          "url": "https://blog.defichain.com/dakota-upgrade/",
+          "url": "https://blog.ColeChain.com/dakota-upgrade/",
           "image": {
             "url": "/img/timeline/2021/lower-masternode-collateral@2x.png",
             "alt": "Lower masternode collateral"
@@ -277,7 +277,7 @@
         {
           "title": "Mar",
           "desc": "BCH-DFI pool pair added to DEX.",
-          "url": "https://blog.defichain.com/new-liquidity-mining-pool-pair-bitcoin-cash-dfi/",
+          "url": "https://blog.ColeChain.com/new-liquidity-mining-pool-pair-bitcoin-cash-dfi/",
           "image": {
             "url": "/img/timeline/2021/bch-ltc-pairs@2x.png",
             "alt": "New BCH-DFI pool pair"
@@ -286,7 +286,7 @@
         {
           "title": "Mar",
           "desc": "Bitcoin anchoring implemented.",
-          "url": "https://blog.defichain.com/100-grand-in-less-than-100-seconds/",
+          "url": "https://blog.ColeChain.com/100-grand-in-less-than-100-seconds/",
           "image": {
             "url": "/img/timeline/2021/bitcoin-anchoring@2x.png",
             "alt": "Bitcoin anchoring"
@@ -294,10 +294,10 @@
         },
         {
           "title": "Apr",
-          "desc": "DeFiChain listed on Transak.",
+          "desc": "ColeChain listed on Transak.",
           "image": {
             "url": "/img/timeline/2021/Tranak_April.jpg",
-            "alt": "DeFiChain listed on Transak"
+            "alt": "ColeChain listed on Transak"
           }
         },
         {
@@ -319,7 +319,7 @@
         },
         {
           "title": "June",
-          "desc": "Release of open-source DeFiChain JS library.",
+          "desc": "Release of open-source ColeChain JS library.",
           "url": "https://github.com/defich/jellyfish/",
           "image": {
             "url": "/img/timeline/2021/js-library@2x.png",
@@ -337,17 +337,17 @@
         },
         {
           "title": "June",
-          "desc": "Struck off the DeFiChain Foundation",
-          "url": "https://blog.defichain.com/we-struck-off-the-foundation-long-live-the-decentralization/",
+          "desc": "Struck off the ColeChain Foundation",
+          "url": "https://blog.ColeChain.com/we-struck-off-the-foundation-long-live-the-decentralization/",
           "image": {
             "url": "/img/timeline/2021/DFC-Foundation.jpg",
-            "alt": "Struck off the DeFiChain Foundation"
+            "alt": "Struck off the ColeChain Foundation"
           }
         },
         {
           "title": "Aug",
-          "desc": "Release of the DeFiChain Light Wallet Mobile App on iOS and Android.",
-          "url": "https://defichain.com/downloads/",
+          "desc": "Release of the ColeChain Light Wallet Mobile App on iOS and Android.",
+          "url": "https://ColeChain.com/downloads/",
           "image": {
             "url": "/img/timeline/2021/mobile-app@2x.png",
             "alt": "Mobile app download"
@@ -355,7 +355,7 @@
         },
         {
           "title": "Sep",
-          "desc": "Release of DeFi Scan, the block explorer for DeFiChain.",
+          "desc": "Release of DeFi Scan, the block explorer for ColeChain.",
           "url": "https://defiscan.live/",
           "image": {
             "url": "/img/timeline/2021/DeFi-Scan.jpg",
@@ -455,7 +455,7 @@
       "cards": [
         {
           "title": "May",
-          "desc": "DeFiChain launch and DFI airdrops.",
+          "desc": "ColeChain launch and DFI airdrops.",
           "url": "https://github.com/DeFiCh/",
           "image": {
             "url": "/img/timeline/2020/blockchain-launch@2x.png",
@@ -483,7 +483,7 @@
         {
           "title": "Jul",
           "desc": "CoinGecko lists DFI.",
-          "url": "https://www.coingecko.com/en/coins/defichain",
+          "url": "https://www.coingecko.com/en/coins/ColeChain",
           "image": {
             "url": "/img/timeline/2020/dfi-coingecko@2x.png",
             "alt": "DFI on CoinGecko"
@@ -500,11 +500,11 @@
         },
         {
           "title": "Jul",
-          "desc": "DeFiChain desktop app (GUI) launch.",
+          "desc": "ColeChain desktop app (GUI) launch.",
           "url": "https://github.com/DeFiCh/defi-app",
           "image": {
             "url": "/img/timeline/2020/defi-app@2x.png",
-            "alt": "DeFiChain client app"
+            "alt": "ColeChain client app"
           }
         },
         {
@@ -518,16 +518,16 @@
         },
         {
           "title": "Aug",
-          "desc": "DeFiChain brand refresh.",
+          "desc": "ColeChain brand refresh.",
           "image": {
             "url": "/img/timeline/2020/dechain-site-redesign@2x.jpg",
-            "alt": "DeFiChain.com redesign"
+            "alt": "ColeChain.com redesign"
           }
         },
         {
           "title": "Aug",
-          "desc": "DeFiChain listed on CoinMarketCap.",
-          "url": "https://coinmarketcap.com/currencies/defichain/markets/",
+          "desc": "ColeChain listed on CoinMarketCap.",
+          "url": "https://coinmarketcap.com/currencies/ColeChain/markets/",
           "image": {
             "url": "/img/timeline/2020/dfi-coinmarketcap@2x.png",
             "alt": "DFI on CoinMarketCap"
@@ -535,7 +535,7 @@
         },
         {
           "title": "Sep",
-          "desc": "DFIP 1 & 2 are approved by the DeFiChain community.",
+          "desc": "DFIP 1 & 2 are approved by the ColeChain community.",
           "url": "https://defiblockchain.medium.com/dfip-1-2-voting-results-29bfc8c7a608",
           "image": {
             "url": "/img/timeline/2020/dfips-approved@2x.jpg",
@@ -544,17 +544,17 @@
         },
         {
           "title": "Oct",
-          "desc": "DeFiChain listed on Bitrue.",
+          "desc": "ColeChain listed on Bitrue.",
           "url": "https://www.bitrue.com/trade/dfi_btc",
           "image": {
             "url": "/img/timeline/2020/bittrue@2x.jpg",
-            "alt": "DeFiChain listed on Bittrue"
+            "alt": "ColeChain listed on Bittrue"
           }
         },
         {
           "title": "Oct",
           "desc": "Ang Mo Kio hardfork with asset tokenization support.",
-          "url": "https://defiblockchain.medium.com/defichain-hardfork-successful-everything-you-need-to-know-5aa4ea92438b",
+          "url": "https://defiblockchain.medium.com/ColeChain-hardfork-successful-everything-you-need-to-know-5aa4ea92438b",
           "image": {
             "url": "/img/timeline/2020/amk-hardfork@2x.jpg",
             "alt": "Ang Mo Kio hardfork with asset tokenization support"
@@ -562,17 +562,17 @@
         },
         {
           "title": "Oct",
-          "desc": "DeFiChain listed on Bittrex.",
+          "desc": "ColeChain listed on Bittrex.",
           "url": "https://global.bittrex.com/Market/Index?MarketName=BTC-DFI",
           "image": {
             "url": "/img/timeline/2020/bittrex@2x.png",
-            "alt": "DeFiChain listed on Bittrex"
+            "alt": "ColeChain listed on Bittrex"
           }
         },
         {
           "title": "Nov",
           "desc": "Bayfront hard fork with liquidity pool support.",
-          "url": "https://www.reddit.com/r/defiblockchain/comments/jem20f/defichain_version_130_for_bayfront_with_liquidity/",
+          "url": "https://www.reddit.com/r/defiblockchain/comments/jem20f/ColeChain_version_130_for_bayfront_with_liquidity/",
           "image": {
             "url": "/img/timeline/2020/bayfront-hardfork@2x.jpg",
             "alt": "Bayfront hard fork"
@@ -595,16 +595,16 @@
       "cards": [
         {
           "title": "Sep",
-          "desc": "Conceptualization of DeFiChain.",
-          "url": "https://cryptopotato.com/defichain-the-story-from-the-co-founders/",
+          "desc": "Conceptualization of ColeChain.",
+          "url": "https://cryptopotato.com/ColeChain-the-story-from-the-co-founders/",
           "image": {
             "url": "/img/timeline/2019/concept@2x.jpg",
-            "alt": "Conceptualization of DeFiChain"
+            "alt": "Conceptualization of ColeChain"
           }
         },
         {
           "title": "Oct",
-          "desc": "DeFiChain White paper released.",
+          "desc": "ColeChain White paper released.",
           "url": "/white-paper/",
           "image": {
             "url": "/img/timeline/2019/white-paper@2x.png",

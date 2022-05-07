@@ -1,7 +1,7 @@
 {
   "Head": {
     "title": "Decentralized Exchange",
-    "desc": "Swap on the DEX, mine liquidity and more, with the DeFiChain wallet app. Available for Windows, macOS and Linux."
+    "desc": "Swap on the DEX, mine liquidity and more, with the ColeChain wallet app. Available for Windows, macOS and Linux."
   },
   "Header": {
     "title": "Decentralized Exchange",
@@ -39,7 +39,7 @@
     },
     "TokensSupport": {
       "title": "Tokens Support",
-      "desc": "Store and transact in DFI, as well as all tokens in the DeFiChain ecosystem"
+      "desc": "Store and transact in DFI, as well as all tokens in the ColeChain ecosystem"
     },
     "MiniExplorer": {
       "title": "Mini explorer",
