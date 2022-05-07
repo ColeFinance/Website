@@ -1,0 +1,47 @@
+{
+  "Head": {
+    "title": "探索 DeFiChain 遞飛鏈生態",
+    "desc": "進入 DeFi 領域，通過使用非托管式的虛擬錢包體現了技術開發的多種需求"
+  },
+  "Header": {
+    "title": "探索 DeFiChain 遞飛鏈生態",
+    "desc": "進入 DeFi 領域，通過使用非托管式的虛擬錢包體現了技術開發的多種需求"
+  },
+  "LightWallets": {
+    "title": "每日登入 DeFiChain",
+    "subtitle": "這類錢包提供容易的途徑去接觸 DeFiChain 遞飛鏈的功能套件，最適合接入每天使用者和生態實現可互操作，同時又不影響資金的速度和資產的安全性。",
+    "entries": {
+      "DFC": {
+        "title": "遞飛鏈錢包手機應用程序",
+        "desc": "輕錢包，立即啓動開放式金融理財。"
+      },
+      "DFX": {
+        "title": "DFX 錢包手機應用程序",
+        "desc": "以最簡單和安全的方式存儲、接收和發送遞飛鏈代幣，無需通過您的手機進行操作。"
+      }
+    }
+  },
+  "FullNodeWallets": {
+    "title": "進階使用 DeFiChain",
+    "subtitle": "進階版的虛擬錢包更適用於配合 DeFiChain 遞飛鏈上的複雜操作，例如管理主節點、多重簽名等。",
+    "entries": {
+      "DFC": {
+        "title": "递飞链钱包电脑程序",
+        "desc": "使用全功能和递飞链钱包程序进行交易、流动性挖矿、交换等。包含完整节点。"
+      },
+      "RPI": {
+        "title": "遞飛鏈錢包樹莓派程序",
+        "desc": "用于樹莓派 4B 4GB 的電腦錢包版本，帶有官方 Raspberry Pi OS（32-Bit）。"
+      },
+      "CLI": {
+        "title": "命令行介面控制台",
+        "desc": "通過命令行介面與遞飛鏈進行交易和其他功能。包含完整節點。"
+      },
+      "DFIElectrum": {
+        "title": "遞飛鏈 Electrum 錢包",
+        "desc": "多重簽名 DeFiChain 錢包採用 Electrum 軟件技術，適用於於財務或更多用例。"
+      }
+    }
+  }
+}
+
